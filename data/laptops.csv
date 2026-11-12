@@ -1,0 +1,91 @@
+id,brand,model,price_usd,os,cpu,ram_gb,storage_gb,screen_in,weight_lb,battery_hr,gpu,pen_support,description
+L001,Apple,MacBook Air 13 M2,899,macOS,Apple M2,8,256,13.6,2.7,15,integrated,no,thin and light fanless laptop with long battery life silent for lectures and library study good for writing notes browsing and light coding
+L002,Apple,MacBook Air 13 M3,1099,macOS,Apple M3,16,256,13.6,2.7,16,integrated,no,thin light fanless all day battery strong for python notebooks writing and multitasking carry all day across campus
+L003,Apple,MacBook Air 15 M3,1299,macOS,Apple M3,16,512,15.3,3.3,16,integrated,no,large screen but still light all day battery good for spreadsheets side by side windows research and coding
+L004,Apple,MacBook Pro 14 M3,1599,macOS,Apple M3,16,512,14.2,3.4,18,integrated,no,premium bright display long battery fast for video editing photo editing data science and machine learning notebooks
+L005,Apple,MacBook Pro 14 M3 Pro,1999,macOS,Apple M3 Pro,18,512,14.2,3.5,17,integrated,no,powerful creative workstation for video editing music production 3d work and large data science models long battery
+L006,Apple,MacBook Pro 16 M3 Pro,2499,macOS,Apple M3 Pro,18,512,16.2,4.7,20,integrated,no,big screen powerful machine for film editing music production and heavy creative work longest battery heavy to carry
+L007,Apple,MacBook Air 13 M1,699,macOS,Apple M1,8,256,13.3,2.8,15,integrated,no,budget mac thin and light long battery fine for notes essays browsing and zoom classes older model
+L008,Dell,XPS 13,999,Windows,Intel Core Ultra 7,16,512,13.4,2.6,12,integrated,no,premium compact windows ultrabook very light sharp screen good for business school office excel and travel
+L009,Dell,XPS 14,1499,Windows,Intel Core Ultra 7,16,512,14.5,3.7,11,RTX 4050,no,premium windows laptop with dedicated graphics for photo editing video editing and some machine learning
+L010,Dell,XPS 16,1899,Windows,Intel Core Ultra 7,32,1024,16.3,4.8,10,RTX 4060,no,large powerful windows workstation for creative work engineering cad and gpu machine learning heavy
+L011,Dell,Inspiron 14,649,Windows,Intel Core i5,16,512,14.0,3.4,9,integrated,no,affordable everyday windows laptop for office word excel powerpoint browsing and online classes
+L012,Dell,Inspiron 15,549,Windows,Intel Core i5,8,512,15.6,3.7,7,integrated,no,budget large screen windows laptop with number pad for spreadsheets accounting excel and everyday school work
+L013,Dell,Inspiron 16 Plus,1049,Windows,Intel Core Ultra 7,16,1024,16.0,4.3,9,RTX 4060,no,big screen windows laptop with graphics card for engineering cad gaming and photo editing at a mid price
+L014,Dell,Latitude 5450,1199,Windows,Intel Core Ultra 5,16,512,14.0,3.0,12,integrated,no,durable business laptop with strong keyboard security features long battery used by companies and consulting firms
+L015,Dell,Inspiron 14 2-in-1,749,Windows,AMD Ryzen 5,16,512,14.0,3.5,9,integrated,yes,convertible touchscreen laptop with pen support for handwritten notes annotating pdfs and drawing diagrams
+L016,HP,Pavilion 15,599,Windows,Intel Core i5,8,512,15.6,3.9,7,integrated,no,budget everyday windows laptop number pad good for excel spreadsheets essays and streaming
+L017,HP,Pavilion Plus 14,849,Windows,Intel Core Ultra 5,16,512,14.0,3.1,10,integrated,no,light mid price windows laptop with sharp oled screen good for office work notes and streaming
+L018,HP,Envy x360 14,899,Windows,AMD Ryzen 7,16,512,14.0,3.2,11,integrated,yes,convertible touchscreen two in one with stylus for handwritten notes sketching and reading pdfs in tablet mode
+L019,HP,Envy x360 16,1099,Windows,Intel Core Ultra 7,16,1024,16.0,4.1,10,integrated,yes,large convertible touchscreen with pen for drawing design students and note taking big screen
+L020,HP,Spectre x360 14,1449,Windows,Intel Core Ultra 7,16,1024,14.0,3.2,12,integrated,yes,premium convertible oled touchscreen pen included elegant design for note taking business and travel
+L021,HP,EliteBook 840,1349,Windows,Intel Core Ultra 5,16,512,14.0,3.0,12,integrated,no,business laptop durable keyboard security long battery standard for corporate consulting and finance work
+L022,HP,Victus 15,749,Windows,AMD Ryzen 5,16,512,15.6,5.0,6,RTX 4050,no,budget gaming laptop with dedicated graphics card usable for gpu deep learning practice and cad but heavy short battery
+L023,HP,Omen 16,1299,Windows,Intel Core i7,16,1024,16.1,5.4,6,RTX 4060,no,gaming laptop strong gpu for games deep learning training and 3d rendering heavy with short battery
+L024,HP,Chromebook 14,299,ChromeOS,Intel Celeron,4,64,14.0,3.2,11,integrated,no,very cheap chromebook for browsing google docs email and online classes not for software installs
+L025,HP,Chromebook Plus 14,449,ChromeOS,Intel Core i3,8,128,14.0,3.2,11,integrated,no,affordable chromebook for google docs canvas d2l browsing and video calls works mostly in the browser
+L026,Lenovo,ThinkPad X1 Carbon,1699,Windows,Intel Core Ultra 7,16,512,14.0,2.4,13,integrated,no,premium very light business laptop best keyboard durable long battery favored by consultants and travelers
+L027,Lenovo,ThinkPad E14,749,Windows,AMD Ryzen 5,16,512,14.0,3.1,9,integrated,no,affordable business laptop great keyboard durable good for office excel coding and everyday school work
+L028,Lenovo,ThinkPad T14,1199,Windows,AMD Ryzen 7,16,512,14.0,2.9,12,integrated,no,reliable business workhorse excellent keyboard repairable long battery good for coding data analysis and office
+L029,Lenovo,ThinkPad P16s,1499,Windows,Intel Core Ultra 7,32,1024,16.0,3.9,9,RTX A500,no,mobile workstation for engineering cad data science and large spreadsheets lots of memory
+L030,Lenovo,IdeaPad Slim 3,479,Windows,AMD Ryzen 5,8,512,15.6,3.6,8,integrated,no,budget windows laptop for essays browsing zoom classes and light office work
+L031,Lenovo,IdeaPad Slim 5,699,Windows,AMD Ryzen 7,16,512,14.0,3.1,11,integrated,no,good value light windows laptop with long battery for coding notebooks office and everyday school
+L032,Lenovo,IdeaPad Flex 5,649,Windows,AMD Ryzen 5,16,512,14.0,3.4,9,integrated,yes,affordable convertible touchscreen with pen support for notes reading and light drawing
+L033,Lenovo,Yoga 7i 14,899,Windows,Intel Core Ultra 5,16,512,14.0,3.2,12,integrated,no,convertible oled touchscreen two in one long battery good for note taking streaming and office
+L034,Lenovo,Yoga Slim 7x,1199,Windows,Snapdragon X Elite,16,512,14.5,2.9,18,integrated,no,very long battery arm windows laptop light and quiet some older apps and games may not run
+L035,Lenovo,Legion 5,1299,Windows,AMD Ryzen 7,16,1024,16.0,5.5,6,RTX 4060,no,gaming laptop powerful gpu for games deep learning and 3d rendering heavy short battery loud fans
+L036,Lenovo,Legion Pro 7,2299,Windows,Intel Core i9,32,1024,16.0,6.2,5,RTX 4080,no,high end gaming and gpu workstation for training neural networks rendering and game development very heavy
+L037,Lenovo,LOQ 15,849,Windows,Intel Core i5,16,512,15.6,5.2,6,RTX 4050,no,budget gaming laptop dedicated nvidia gpu for cuda deep learning practice and games heavy short battery
+L038,Lenovo,Chromebook Duet,299,ChromeOS,MediaTek,4,128,10.9,2.3,12,integrated,no,tiny detachable tablet chromebook with keyboard for reading notes and browsing very portable
+L039,Lenovo,ThinkPad X13,1099,Windows,AMD Ryzen 5,16,512,13.3,2.6,12,integrated,no,small light business laptop durable keyboard long battery easy to carry to every class
+L040,ASUS,Zenbook 14 OLED,899,Windows,Intel Core Ultra 7,16,512,14.0,2.8,13,integrated,no,light oled windows laptop with long battery strong value for coding notebooks office and streaming
+L041,ASUS,Zenbook S 14,1399,Windows,Intel Core Ultra 7,32,1024,14.0,2.6,14,integrated,no,premium ultralight windows laptop lots of memory long battery for data analysis multitasking and travel
+L042,ASUS,Vivobook 15,499,Windows,Intel Core i5,8,512,15.6,3.7,7,integrated,no,budget large screen windows laptop for spreadsheets essays browsing and online classes
+L043,ASUS,Vivobook 16,599,Windows,AMD Ryzen 7,16,512,16.0,4.0,8,integrated,no,affordable big screen windows laptop for spreadsheets multitasking and everyday school
+L044,ASUS,Vivobook S 15,1099,Windows,Snapdragon X Plus,16,512,15.6,3.1,18,integrated,no,very long battery arm windows laptop big screen light for its size some apps may not be compatible
+L045,ASUS,Zenbook Duo,1499,Windows,Intel Core Ultra 7,16,1024,14.0,3.6,10,integrated,no,dual screen laptop two full displays for research multitasking coding and spreadsheets side by side
+L046,ASUS,ROG Zephyrus G14,1599,Windows,AMD Ryzen 9,16,1024,14.0,3.3,9,RTX 4060,no,compact powerful gaming laptop light for a gpu machine good for deep learning game development and travel
+L047,ASUS,ROG Strix G16,1399,Windows,Intel Core i7,16,1024,16.0,5.5,5,RTX 4060,no,gaming laptop strong gpu for games and deep learning training heavy short battery loud
+L048,ASUS,TUF Gaming A15,899,Windows,AMD Ryzen 7,16,512,15.6,4.9,7,RTX 4050,no,durable budget gaming laptop dedicated gpu for cuda machine learning practice and games heavy
+L049,ASUS,Chromebook Plus CX34,399,ChromeOS,Intel Core i3,8,128,14.0,3.2,10,integrated,no,affordable chromebook for google workspace browsing video calls and online classes
+L050,ASUS,ProArt P16,2299,Windows,AMD Ryzen AI 9,32,1024,16.0,4.0,9,RTX 4070,no,creator laptop color accurate oled for video editing photography 3d design and gpu machine learning
+L051,Acer,Aspire 5,549,Windows,Intel Core i5,8,512,15.6,3.9,8,integrated,no,budget everyday windows laptop number pad for spreadsheets essays and streaming
+L052,Acer,Aspire Go 15,349,Windows,Intel Core i3,8,256,15.6,3.9,7,integrated,no,very cheap windows laptop for browsing essays and email slow for heavy multitasking
+L053,Acer,Swift Go 14,749,Windows,Intel Core Ultra 5,16,512,14.0,2.9,10,integrated,no,light affordable windows laptop with oled screen for notes office coding and travel
+L054,Acer,Swift X 14,1099,Windows,Intel Core Ultra 7,16,1024,14.5,3.4,8,RTX 4050,no,light creator laptop with dedicated gpu for photo editing video editing and machine learning
+L055,Acer,Nitro V 15,749,Windows,Intel Core i5,16,512,15.6,4.6,6,RTX 4050,no,budget gaming laptop dedicated nvidia gpu for games and deep learning practice heavy short battery
+L056,Acer,Predator Helios Neo 16,1299,Windows,Intel Core i7,16,1024,16.0,5.7,5,RTX 4060,no,gaming laptop powerful gpu for games rendering and neural network training very heavy
+L057,Acer,Chromebook Plus 515,399,ChromeOS,Intel Core i3,8,128,15.6,3.7,10,integrated,no,big screen affordable chromebook for google docs browsing and online classes
+L058,Acer,Chromebook 314,279,ChromeOS,Intel Celeron,4,64,14.0,3.1,10,integrated,no,very cheap chromebook for browsing and google docs basic tasks only
+L059,Microsoft,Surface Laptop 13.8,999,Windows,Snapdragon X Plus,16,256,13.8,2.9,18,integrated,no,premium light arm windows laptop very long battery touchscreen good for office notes and travel
+L060,Microsoft,Surface Laptop 15,1299,Windows,Snapdragon X Elite,16,512,15.0,3.7,18,integrated,no,large premium arm windows laptop touchscreen long battery for office multitasking some apps may not run
+L061,Microsoft,Surface Pro 11,999,Windows,Snapdragon X Plus,16,256,13.0,1.9,14,integrated,yes,detachable tablet with keyboard and pen for handwritten notes onenote drawing and reading ultra portable
+L062,Microsoft,Surface Laptop Go 3,799,Windows,Intel Core i5,8,256,12.4,2.5,15,integrated,no,small light windows laptop easy to carry for notes essays and office basic power
+L063,Samsung,Galaxy Book4 Pro,1349,Windows,Intel Core Ultra 7,16,512,14.0,2.6,13,integrated,no,premium light amoled windows laptop long battery works well with samsung phones for office and travel
+L064,Samsung,Galaxy Book4 360,999,Windows,Intel Core 7,16,512,15.6,3.8,12,integrated,yes,convertible touchscreen with s pen for notes and drawing big screen
+L065,Samsung,Galaxy Book4,699,Windows,Intel Core i5,8,512,15.6,3.4,10,integrated,no,affordable windows laptop for office spreadsheets and online classes
+L066,Samsung,Galaxy Chromebook Plus,699,ChromeOS,Intel Core 3,8,256,15.6,2.6,13,integrated,no,light premium chromebook big screen for google workspace browsing and online classes
+L067,Framework,Laptop 13,1049,Windows,Intel Core Ultra 5,16,512,13.5,2.9,9,integrated,no,modular repairable laptop you can upgrade memory storage and ports yourself good for coding and linux
+L068,Framework,Laptop 16,1499,Windows,AMD Ryzen 7,32,1024,16.0,4.6,8,RX 7700S,no,modular repairable big laptop with swappable gpu module for gaming machine learning and engineering
+L069,Framework,Laptop 13 DIY Linux,899,Linux,AMD Ryzen 5,16,512,13.5,2.9,9,integrated,no,repairable linux laptop for programmers computer science students and tinkerers no windows license
+L070,System76,Lemur Pro,1199,Linux,Intel Core Ultra 5,16,512,14.0,2.4,14,integrated,no,very light linux laptop with long battery for programming data science servers and open source work
+L071,System76,Oryx Pro,2099,Linux,Intel Core i9,32,1024,16.0,5.5,6,RTX 4070,no,linux gpu workstation for deep learning training cuda research and rendering heavy
+L072,Dell,XPS 13 Developer Edition,1199,Linux,Intel Core Ultra 7,16,512,13.4,2.6,12,integrated,no,premium light laptop shipped with ubuntu linux for programmers and data science
+L073,LG,gram 14,999,Windows,Intel Core Ultra 5,16,512,14.0,2.2,15,integrated,no,extremely light windows laptop long battery easy to carry all day for notes office and travel
+L074,LG,gram 16,1299,Windows,Intel Core Ultra 7,16,1024,16.0,2.7,14,integrated,no,very light for a big screen long battery for spreadsheets research multitasking and coding
+L075,LG,gram 17,1499,Windows,Intel Core Ultra 7,32,1024,17.0,3.0,14,integrated,no,largest screen that is still light lots of memory for data analysis spreadsheets and multitasking
+L076,MSI,Modern 14,499,Windows,Intel Core i5,8,512,14.0,3.1,8,integrated,no,budget light windows laptop for office work essays browsing and online classes
+L077,MSI,Prestige 14,1099,Windows,Intel Core Ultra 7,16,1024,14.0,3.0,12,integrated,no,light business and creator laptop long battery for office coding and travel
+L078,MSI,Thin GF63,699,Windows,Intel Core i5,8,512,15.6,4.1,5,RTX 4050,no,cheapest gaming laptop with nvidia gpu for basic deep learning practice and games short battery
+L079,MSI,Katana 15,999,Windows,Intel Core i7,16,1024,15.6,5.0,5,RTX 4060,no,gaming laptop strong gpu for games and neural network training heavy loud short battery
+L080,MSI,Creator Z17,2999,Windows,Intel Core i9,32,2048,17.0,5.4,6,RTX 4070,no,top creator workstation for film editing 3d animation and gpu machine learning very expensive
+L081,Razer,Blade 14,2199,Windows,AMD Ryzen 9,16,1024,14.0,4.0,8,RTX 4070,no,premium compact gaming laptop strong gpu for games deep learning and creative work
+L082,Apple,MacBook Air 13 M3 24GB,1499,macOS,Apple M3,24,512,13.6,2.7,16,integrated,no,light fanless mac with lots of memory for data science notebooks local ai models and multitasking
+L083,Apple,MacBook Pro 14 M3 Max,3199,macOS,Apple M3 Max,36,1024,14.2,3.6,16,integrated,no,top tier mac for professional video editing 3d rendering and running large local ai models
+L084,Dell,Latitude 3550,799,Windows,Intel Core i5,16,512,15.6,3.9,9,integrated,no,affordable business laptop durable number pad for accounting excel and office work
+L085,HP,ProBook 445,849,Windows,AMD Ryzen 5,16,512,14.0,3.1,10,integrated,no,affordable business laptop durable keyboard for office excel coding and consulting work
+L086,Lenovo,ThinkPad L13 Yoga,1049,Windows,Intel Core i5,16,512,13.3,3.0,10,integrated,yes,business convertible with built in pen for handwritten notes annotating and presenting durable
+L087,ASUS,Chromebook Flip CX5,599,ChromeOS,Intel Core i5,8,256,14.0,3.0,10,integrated,no,convertible touchscreen chromebook for google docs notes and browsing tablet mode
+L088,Acer,Swift Edge 16,999,Windows,AMD Ryzen 7,16,1024,16.0,2.7,10,integrated,no,very light big screen oled windows laptop for spreadsheets research and streaming
+L089,HP,OmniBook X 14,1099,Windows,Snapdragon X Elite,16,512,14.0,3.0,18,integrated,no,very long battery arm windows laptop light quiet for office and notes some apps may not run
+L090,Dell,G15,899,Windows,Intel Core i7,16,512,15.6,6.0,5,RTX 4050,no,gaming laptop dedicated gpu for games and deep learning practice very heavy short battery

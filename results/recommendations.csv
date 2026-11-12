@@ -1,0 +1,61 @@
+profile_id,persona,method,rank,laptop_id,laptop,price_usd,os,similarity,matched_words,spec_check
+P01,MBA student who lives in Excel,tfidf,1,L016,HP Pavilion 15,599,Windows,0.297,"number, pad, number pad, excel",True
+P01,MBA student who lives in Excel,tfidf,2,L012,Dell Inspiron 15,549,Windows,0.281,"number, pad, number pad, excel",True
+P01,MBA student who lives in Excel,tfidf,3,L051,Acer Aspire 5,549,Windows,0.278,"pad, number, number pad, spreadsheets",True
+P01,MBA student who lives in Excel,cheapest,1,L052,Acer Aspire Go 15,349,Windows,,,True
+P01,MBA student who lives in Excel,cheapest,2,L030,Lenovo IdeaPad Slim 3,479,Windows,,,True
+P01,MBA student who lives in Excel,cheapest,3,L042,ASUS Vivobook 15,499,Windows,,,True
+P02,Data science grad student,tfidf,1,L002,Apple MacBook Air 13 M3,1099,macOS,0.447,"day, python, campus, python notebooks",True
+P02,Data science grad student,tfidf,2,L073,LG gram 14,999,Windows,0.194,"day, carry, long battery, long",True
+P02,Data science grad student,tfidf,3,L089,HP OmniBook X 14,1099,Windows,0.144,"run, long battery, long, battery",True
+P02,Data science grad student,cheapest,1,L058,Acer Chromebook 314,279,ChromeOS,,,False
+P02,Data science grad student,cheapest,2,L024,HP Chromebook 14,299,ChromeOS,,,False
+P02,Data science grad student,cheapest,3,L038,Lenovo Chromebook Duet,299,ChromeOS,,,False
+P03,Deep learning student,tfidf,1,L037,Lenovo LOQ 15,849,Windows,0.341,"gpu cuda, nvidia, nvidia gpu, cuda",True
+P03,Deep learning student,tfidf,2,L055,Acer Nitro V 15,749,Windows,0.231,"nvidia gpu, nvidia, deep, deep learning",True
+P03,Deep learning student,tfidf,3,L078,MSI Thin GF63,699,Windows,0.223,"nvidia gpu, nvidia, deep, deep learning",False
+P03,Deep learning student,cheapest,1,L052,Acer Aspire Go 15,349,Windows,,,False
+P03,Deep learning student,cheapest,2,L030,Lenovo IdeaPad Slim 3,479,Windows,,,False
+P03,Deep learning student,cheapest,3,L076,MSI Modern 14,499,Windows,,,False
+P04,Note taker,tfidf,1,L015,Dell Inspiron 14 2-in-1,749,Windows,0.274,"handwritten notes, handwritten, pen, notes",True
+P04,Note taker,tfidf,2,L018,HP Envy x360 14,899,Windows,0.202,"handwritten notes, handwritten, notes",True
+P04,Note taker,tfidf,3,L032,Lenovo IdeaPad Flex 5,649,Windows,0.113,"pen, notes",True
+P04,Note taker,cheapest,1,L058,Acer Chromebook 314,279,ChromeOS,,,False
+P04,Note taker,cheapest,2,L038,Lenovo Chromebook Duet,299,ChromeOS,,,False
+P04,Note taker,cheapest,3,L024,HP Chromebook 14,299,ChromeOS,,,False
+P05,Student on a tight budget,tfidf,1,L024,HP Chromebook 14,299,ChromeOS,0.269,"cheap, docs, google docs, google",True
+P05,Student on a tight budget,tfidf,2,L058,Acer Chromebook 314,279,ChromeOS,0.251,"cheap, docs, google docs, google",True
+P05,Student on a tight budget,tfidf,3,L052,Acer Aspire Go 15,349,Windows,0.129,"cheap, essays, laptop",True
+P05,Student on a tight budget,cheapest,1,L058,Acer Chromebook 314,279,ChromeOS,,,True
+P05,Student on a tight budget,cheapest,2,L024,HP Chromebook 14,299,ChromeOS,,,True
+P05,Student on a tight budget,cheapest,3,L038,Lenovo Chromebook Duet,299,ChromeOS,,,True
+P06,Film student,tfidf,1,L007,Apple MacBook Air 13 M1,699,macOS,0.091,mac,False
+P06,Film student,tfidf,2,L082,Apple MacBook Air 13 M3 24GB,1499,macOS,0.09,mac,True
+P06,Film student,tfidf,3,L004,Apple MacBook Pro 14 M3,1599,macOS,0.057,video,True
+P06,Film student,cheapest,1,L007,Apple MacBook Air 13 M1,699,macOS,,,False
+P06,Film student,cheapest,2,L001,Apple MacBook Air 13 M2,899,macOS,,,False
+P06,Film student,cheapest,3,L002,Apple MacBook Air 13 M3,1099,macOS,,,True
+P07,Computer science student,tfidf,1,L070,System76 Lemur Pro,1199,Linux,0.572,"source, open, source work, programming",True
+P07,Computer science student,tfidf,2,L069,Framework Laptop 13 DIY Linux,899,Linux,0.154,"linux, linux laptop, laptop",True
+P07,Computer science student,tfidf,3,L072,Dell XPS 13 Developer Edition,1199,Linux,0.057,"linux, laptop",True
+P07,Computer science student,cheapest,1,L069,Framework Laptop 13 DIY Linux,899,Linux,,,True
+P07,Computer science student,cheapest,2,L070,System76 Lemur Pro,1199,Linux,,,True
+P07,Computer science student,cheapest,3,L072,Dell XPS 13 Developer Edition,1199,Linux,,,True
+P08,Business student who travels,tfidf,1,L077,MSI Prestige 14,1099,Windows,0.254,"laptop long, travel, long battery, long",True
+P08,Business student who travels,tfidf,2,L059,Microsoft Surface Laptop 13.8,999,Windows,0.233,"laptop long, travel, long battery, long",True
+P08,Business student who travels,tfidf,3,L073,LG gram 14,999,Windows,0.22,"laptop long, travel, long battery, long",True
+P08,Business student who travels,cheapest,1,L052,Acer Aspire Go 15,349,Windows,,,False
+P08,Business student who travels,cheapest,2,L030,Lenovo IdeaPad Slim 3,479,Windows,,,False
+P08,Business student who travels,cheapest,3,L042,ASUS Vivobook 15,499,Windows,,,False
+P09,Engineering student,tfidf,1,L029,Lenovo ThinkPad P16s,1499,Windows,0.149,"cad, engineering",True
+P09,Engineering student,tfidf,2,L013,Dell Inspiron 16 Plus,1049,Windows,0.141,"cad, engineering",True
+P09,Engineering student,tfidf,3,L089,HP OmniBook X 14,1099,Windows,0.097,run,False
+P09,Engineering student,cheapest,1,L052,Acer Aspire Go 15,349,Windows,,,False
+P09,Engineering student,cheapest,2,L030,Lenovo IdeaPad Slim 3,479,Windows,,,False
+P09,Engineering student,cheapest,3,L042,ASUS Vivobook 15,499,Windows,,,False
+P10,Undecided first-year,tfidf,1,L043,ASUS Vivobook 16,599,Windows,0.13,school,True
+P10,Undecided first-year,tfidf,2,L031,Lenovo IdeaPad Slim 5,699,Windows,0.113,school,True
+P10,Undecided first-year,tfidf,3,L012,Dell Inspiron 15,549,Windows,0.108,school,False
+P10,Undecided first-year,cheapest,1,L058,Acer Chromebook 314,279,ChromeOS,,,False
+P10,Undecided first-year,cheapest,2,L024,HP Chromebook 14,299,ChromeOS,,,False
+P10,Undecided first-year,cheapest,3,L038,Lenovo Chromebook Duet,299,ChromeOS,,,False

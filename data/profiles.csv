@@ -1,0 +1,11 @@
+profile_id,persona,request,max_budget,os,max_weight_lb,min_ram_gb,min_battery_hr,needs_gpu,needs_pen
+P01,MBA student who lives in Excel,I build big excel models and spreadsheets for finance classes and I want a number pad,800,Windows,,8,,,
+P02,Data science grad student,I run python notebooks and pandas all day and carry my laptop across campus so it needs long battery,1300,any,3.5,16,10,,
+P03,Deep learning student,I need an nvidia gpu with cuda to train neural networks for my deep learning class,1000,Windows,,16,,yes,
+P04,Note taker,I take handwritten notes with a pen and annotate pdf readings in class,900,any,,,,,yes
+P05,Student on a tight budget,cheap laptop for essays google docs and zoom classes nothing fancy,350,any,,,,,
+P06,Film student,I edit video and color grade short films and want a mac,2000,macOS,,16,,,
+P07,Computer science student,I want a linux laptop for programming and open source work,1200,Linux,4.0,16,,,
+P08,Business student who travels,very light laptop with long battery for consulting case work and travel,1500,Windows,3.0,16,12,,
+P09,Engineering student,I run cad software and 3d modeling for engineering projects,1600,Windows,,16,,yes,
+P10,Undecided first-year,something reliable for school that will last me a few years,1000,any,,16,,,

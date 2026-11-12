@@ -1,0 +1,11 @@
+profile_id,persona,PLACEHOLDER_verdict_by_agent,reason
+P01,MBA student who lives in Excel,PLACEHOLDER relevant,All three are Windows with a number pad under $800. All three have only 8 GB, which a student building large models may outgrow.
+P02,Data science grad student,PLACEHOLDER relevant,MacBook Air M3 16 GB is a strong fit. The OmniBook X 14 is an ARM Windows machine; some Python packages may need care on ARM.
+P03,Deep learning student,PLACEHOLDER relevant,Two RTX 4050 machines with 16 GB fit. The MSI GF63 has 8 GB of RAM and fails the spec check.
+P04,Note taker,PLACEHOLDER relevant,All three convertibles support a pen and sit under $900.
+P05,Student on a tight budget,PLACEHOLDER relevant,Two Chromebooks and one cheap Windows laptop. A student whose classes need installed software would reject the Chromebooks.
+P06,Film student,PLACEHOLDER partly relevant,"Rank 1 is the 8 GB MacBook Air M1, a poor video editing machine. It ranked first because the request said ""mac"" and ""edit video"" while descriptions say ""video editing"". Ranks 2 and 3 are reasonable."
+P07,Computer science student,PLACEHOLDER relevant,All three are Linux laptops in budget with 16 GB.
+P08,Business student who travels,PLACEHOLDER relevant,All three are under 3 lb with 12+ hour battery claims.
+P09,Engineering student,PLACEHOLDER partly relevant,"Ranks 1 and 2 have graphics cards for CAD. Rank 3, the OmniBook X 14, matched only the word ""run"", has no GPU, and is ARM, where many CAD tools do not run."
+P10,Undecided first-year,PLACEHOLDER uncertain,"The request is vague, so the only shared word is ""school"". Results are fine budget machines but the ranking is close to luck. This is the case where a short follow-up question would help more than a better model."
